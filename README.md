@@ -13,10 +13,8 @@
 
 ## 🚀 About Me
 
-- 🎓 BCA Final Year Student
 - 💻 Aspiring Software Developer
-- 🌱 Learning Java and Python
-- 🌐 Interested in Web Development
+- 🌐 Interested in Web Development and DSA
 - 🧠 Interested in Problem Solving
 - ⚡ Always curious to explore new technologies
 - 🎯 Working towards becoming a skilled Software Engineer
@@ -34,20 +32,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📂 Academic Projects
-
-### 🛒 Shopping Website (Frontend)
-
-**Technologies:** HTML, CSS
-
-- Designed and developed a responsive shopping website as part of academic training.
-- Created product listing pages with proper layout and navigation.
-- Implemented clean and structured HTML and CSS code.
-
----
-
 ## 📜 Certifications & Training
 
 ### ☕ Java & DSA Certification
@@ -62,14 +46,13 @@
 - **In Association With:** Techno Institute of Higher Studies
 - **Duration:** 45 Days (Summer Training)
 - **Completion Date:** 14 August 2026
--
 ---
 
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
 
-Currently Pursuing
+Currently Pursuing - Final Year
 
 ---
 
@@ -93,7 +76,7 @@ Currently Pursuing
 <p align="center">
   <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=techieshievam&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 ## 🐍 Contribution Activity
 
